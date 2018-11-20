@@ -23,17 +23,6 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://kellyhopkins.github.io/2015/07/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://kellyhopkins.github.io/2015/07/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
       <title>Welcome to Tranquilpeak 0.4.4-BETA</title>
       <link>https://kellyhopkins.github.io/hidden/welcome-to-the-new-tranquilpeak/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
@@ -125,10 +114,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>中文測試</title>
-      <link>https://kellyhopkins.github.io/2013/10/chinese-test/</link>
+      <link>https://kellyhopkins.github.io/hidden/chinese-test/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2013/10/chinese-test/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/chinese-test/</guid>
       <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;</description>
     </item>
     
@@ -143,10 +132,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>日本語テスト</title>
-      <link>https://kellyhopkins.github.io/2013/01/japanese-test/</link>
+      <link>https://kellyhopkins.github.io/hidden/japanese-test/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2013/01/japanese-test/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
     </item>
     
