@@ -13,6 +13,17 @@
     
     <item>
       <title>Hello R Markdown</title>
+      <link>https://kellyhopkins.github.io/hidden/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://kellyhopkins.github.io/hidden/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
       <link>https://kellyhopkins.github.io/2015/07/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
@@ -24,10 +35,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Welcome to Tranquilpeak 0.4.4-BETA</title>
-      <link>https://kellyhopkins.github.io/2015/06/welcome-to-tranquilpeak-0.4.4-beta/</link>
+      <link>https://kellyhopkins.github.io/hidden/welcome-to-the-new-tranquilpeak/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2015/06/welcome-to-tranquilpeak-0.4.4-beta/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/welcome-to-the-new-tranquilpeak/</guid>
       <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
     </item>
     
@@ -60,10 +71,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>highlighted code showcase</title>
-      <link>https://kellyhopkins.github.io/2015/03/highlighted-code-showcase/</link>
+      <link>https://kellyhopkins.github.io/hidden/highlighted-code-showcase/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2015/03/highlighted-code-showcase/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/highlighted-code-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
     </item>
     
@@ -78,37 +89,37 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Hidden social section showcase</title>
-      <link>https://kellyhopkins.github.io/2014/08/hidden-social-section-showcase/</link>
+      <link>https://kellyhopkins.github.io/hidden/hidden-social-section-showcase/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2014/08/hidden-social-section-showcase/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/hidden-social-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden tag section showcase</title>
-      <link>https://kellyhopkins.github.io/2014/08/hidden-tag-section-showcase/</link>
+      <link>https://kellyhopkins.github.io/hidden/hidden-tag-section-showcase/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2014/08/hidden-tag-section-showcase/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/hidden-tag-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden pagination showcase</title>
-      <link>https://kellyhopkins.github.io/2014/08/hidden-pagination-showcase/</link>
+      <link>https://kellyhopkins.github.io/hidden/hidden-pagination-showcase/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2014/08/hidden-pagination-showcase/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/hidden-pagination-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Video integrations showcase</title>
-      <link>https://kellyhopkins.github.io/2014/08/video-integrations-showcase/</link>
+      <link>https://kellyhopkins.github.io/hidden/video-integrations-showcase/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2014/08/video-integrations-showcase/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/video-integrations-showcase/</guid>
       <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.&lt;/p&gt;</description>
     </item>
     
@@ -123,10 +134,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Image gallery showcase</title>
-      <link>https://kellyhopkins.github.io/2013/02/image-gallery-showcase/</link>
+      <link>https://kellyhopkins.github.io/hidden/image-gallery-showcase/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://kellyhopkins.github.io/2013/02/image-gallery-showcase/</guid>
+      <guid>https://kellyhopkins.github.io/hidden/image-gallery-showcase/</guid>
       <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
     </item>
     
